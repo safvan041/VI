@@ -2,6 +2,6 @@
 
 Simple lightweight vector store MVP.
 
-## Quickstart
+##Quickstart
 
-Install requirement(s):
+pip install lilvect
