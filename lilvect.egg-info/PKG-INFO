@@ -1,0 +1,32 @@
+Metadata-Version: 2.4
+Name: lilvect
+Version: 0.1.0
+Summary: LilVect — small, local vector DB (memmap + sqlite) with journaling and an optional HTTP API.
+Author-email: Safvan <your-email@example.com>
+License: MIT
+Keywords: vector,vector-search,memmap,sqlite,nlp
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=1.24
+Requires-Dist: pydantic>=1.10
+Requires-Dist: fastapi>=0.95; extra == "server"
+Requires-Dist: uvicorn>=0.22; extra == "server"
+Provides-Extra: server
+Requires-Dist: fastapi>=0.95; extra == "server"
+Requires-Dist: uvicorn>=0.22; extra == "server"
+
+# VectorLite — minimal MVP
+
+Simple lightweight vector store MVP.
+
+## Quickstart
+
+Install requirement(s):
