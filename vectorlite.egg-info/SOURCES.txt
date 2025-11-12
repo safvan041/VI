@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+tests/test_basic.py
+vectorlite/__init__.py
+vectorlite.egg-info/PKG-INFO
+vectorlite.egg-info/SOURCES.txt
+vectorlite.egg-info/dependency_links.txt
+vectorlite.egg-info/requires.txt
+vectorlite.egg-info/top_level.txt
+vectorlite/vectorlite/__init__.py
+vectorlite/vectorlite/cli.py
+vectorlite/vectorlite/client.py
+vectorlite/vectorlite/index_exact.py
+vectorlite/vectorlite/metrics.py
+vectorlite/vectorlite/storage.py
