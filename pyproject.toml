@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [
-  { name = "Safvan", email = "your-email@example.com" }
+  { name = "Safvan", email = "safwanbakkar.dev@hotmail.com" }
 ]
 keywords = ["vector", "vector-search", "memmap", "sqlite", "nlp"]
 classifiers = [
